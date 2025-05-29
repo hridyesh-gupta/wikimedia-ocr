@@ -53,17 +53,3 @@ wikimedia-ocr/
    npm start
    ```
 
-## Team Member Responsibilities
-
-### Team Member 1 (PDF Processing & OCR)
-- PDF page splitting
-- OCR processing using Tesseract
-- Initial text extraction
-
-### Team Member 2 (Text Processing & Storage)
-- Text file management
-- Appending processed text
-- Final output formatting
-
-## API Documentation
-The API documentation will be available at `http://localhost:8000/docs` when the backend server is running. 
